@@ -1,0 +1,17 @@
+{
+  "expo": {
+    "name": "IraqJobs",
+    "slug": "iraqjobs-v2",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "scheme": "iraqjobs",
+    "userInterfaceStyle": "automatic",
+    "plugins": ["expo-router"],
+    "android": {
+      "package": "com.iraqjobs.app"
+    },
+    "ios": {
+      "bundleIdentifier": "com.iraqjobs.app"
+    }
+  }
+}
